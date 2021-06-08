@@ -1,1 +1,1 @@
-# jumping-box
+# Box Class
